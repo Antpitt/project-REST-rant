@@ -6,7 +6,7 @@ function home () {
         <Def>
             <main>
                 <h1>HOME</h1>
-                <div class="home-page">
+                <div>
                   <img src="../images/chia-fruit-drink.jpg" alt="Chia Fruit Shake" />
                 </div>
                 Photo By <a href="https://unsplash.com/@seefromthesky">Ishan</a> on <a href="https://unsplash.com/">Unsplash</a>
