@@ -5,7 +5,7 @@ const placeSchema = new mongoose.Schema({
   pic: String,
   cuisines: { type: String, required: true },
   city: { type: String, default: 'Anytown' },
-  state: { type: String, required: 'USA' },
+  state: { type: String, default: 'USA' },
   founded: Number
 })
 
